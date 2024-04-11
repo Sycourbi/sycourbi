@@ -5,19 +5,19 @@
 <p align="center">
   <!-- Badges GitHub Followers et Stars -->
   <a href="https://github.com/Sycourbi?tab=followers">
-    <img src="https://img.shields.io/github/followers/raveriss?style=flat" alt="Github Followers"/>
+    <img src="https://img.shields.io/github/followers/Sycourbi?style=flat" alt="Github Followers"/>
   </a>
-  <a href="https://github.com/raveriss?tab=repositories">
-    <img src="https://img.shields.io/github/stars/raveriss?style=flat" alt="Github Stars"/>
+  <a href="https://github.com/Sycourbi?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Sycourbi?style=flat" alt="Github Stars"/>
   </a>
   <!-- Badge Visites avec style cohérent -->
-  <img src="https://komarev.com/ghpvc/?username=raveriss&color=blue&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Sycourbi&color=blue&style=flat" alt="profile views" />
   <!-- Badge Email personnalisé avec shields.io -->
   <a href="mailto:sysy.courbis@gmail.com">
-    <img src="https://img.shields.io/static/v1?label=&message=verissimo.r%40gmail.com&color=blue&logo=gmail&logoColor=red&style=flat&labelColor=grey" alt="Email"/>
+    <img src="https://img.shields.io/static/v1?label=&message=sysy.courbis%40gmail.com&color=blue&logo=gmail&logoColor=red&style=flat&labelColor=grey" alt="Email"/>
   </a>
     <!--<a href="https://www.linkedin.com/in/rafael-verissimo-8b382b20b/"> -->
-    <img src="https://img.shields.io/badge/-Rafael%20Verissimo-blue?style=flat&logo=linkedin&logoColor=white&style=flat&labelColor=grey" alt="LinkedIn"/>
+    <!--<img src="https://img.shields.io/badge/-Rafael%20Verissimo-blue?style=flat&logo=linkedin&logoColor=white&style=flat&labelColor=grey" alt="LinkedIn"/> -->
   </a>
   <div style="text-align: justify; color: #555;">
 </p>
