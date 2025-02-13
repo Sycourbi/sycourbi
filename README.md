@@ -51,7 +51,6 @@ Today, I am looking for opportunities to leverage my skills and passion to contr
         <img src="https://github.com/raveriss/skill-icons/blob/main/mistral.png" height="48" /> 
         <img src="https://github.com/raveriss/skill-icons/blob/main/codecademy.png" height="48" />
         <img src="https://github.com/raveriss/skill-icons/blob/main/openclassroom.png" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/duolingo.png" height="48" />
         <img src="https://github.com/raveriss/skill-icons/blob/main/sololearn.png" height="48" />
         <img src="https://github.com/raveriss/skill-icons/blob/main/icone_simple_screen_recorder.png" height="48" />
         <img src="https://github.com/raveriss/skill-icons/blob/main/gimp.png" height="48" />
