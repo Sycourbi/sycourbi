@@ -77,6 +77,8 @@ Today, I am looking for opportunities to leverage my skills and passion to contr
         <img src="https://github.com/Sycourbi/Icon/blob/main/elastisearch.png" height="48" />
         <img src="https://github.com/Sycourbi/Icon/blob/main/logstash.png" height="48" />
         <img src="https://github.com/Sycourbi/Icon/blob/main/kibana.png" height="48" />
+        <img src="https://github.com/Sycourbi/Icon/blob/main/bootstrap.png" height="48" />
+        <img src="https://github.com/Sycourbi/Icon/blob/main/django.png" height="48" />
 </p>
 
 ## Stats
